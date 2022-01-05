@@ -1,0 +1,1 @@
+# 2_typescript_functions
